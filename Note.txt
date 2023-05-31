@@ -1,0 +1,4 @@
+
+pay by  card(checkout)
+see order(cart)
+photos xampp
